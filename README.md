@@ -10,8 +10,8 @@ This software is published and maintained by **Chair for VLSI Design, Diagnostic
 Faculty of Computer Science, Technische Universität Dresden, Germany  
 **http://vlsi-eda.inf.tu-dresden.de**
 
-![Logo: Technische Universität Dresden](https://github.com/VLSI-EDA/PoC/wiki/images/logo_tud.gif)
-
+<img src="https://raw.githubusercontent.com/VLSI-EDA/RC3E-server/master/docs/_static/images/logo_tud.jpg" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/VLSI-EDA/RC3E-server/master/docs/_static/images/rc3e_logo.jpg" width="350" />
 
 ## 1 Overview
 
